@@ -1,5 +1,9 @@
 # Hadoop-MapReduce-Headline-Term-Weights
 Detecting popular and trending topics from the news articles is an important task for
+public opinion monitoring. In this project, your task is to perform text data analysis
+over a dataset of Australian news from ABC (Australian Broadcasting Corporation)
+using MapReduce. The problem is to compute the weights of each term regarding
+each year in the news articles dataset.
 
 Link to program specification:
 
